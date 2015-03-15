@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">INR2USD</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonstring">Click to Convert</string>
+</resources>
